@@ -1,4 +1,3 @@
-
 [![MasterHead](https://www.shutterstock.com/shutterstock/photos/2681247185/display_1500/stock-photo-hands-of-robot-and-human-touching-on-robotics-engineering-network-connection-background-ai-2681247185.jpg)
 <h3 align="center">Mechatronics Engineer</h3>
 
